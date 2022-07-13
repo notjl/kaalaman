@@ -9,5 +9,5 @@ Writing notes or writing in general is the key to all written works. Everything 
 We fear that we cannot create a sensible paper because of a blank page. It is the irrational fear of not knowing what to write. The struggle will only subside if we have a glimpse of what we **could** write. That is why knowing or just having a note of what to write helps jumpstart a paper.
 
 ## References
-- [[It starts with a note]]
 - [[📚 How to Take Smart Notes]]
+- [[It starts with a note]]

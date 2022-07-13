@@ -8,4 +8,4 @@
 
 
 ## References
-- [[📚 How to Take Smart Notes]] 
+- [[📚 How to Take Smart Notes#Introduction]] 
