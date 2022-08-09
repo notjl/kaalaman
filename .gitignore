@@ -1,2 +1,5 @@
 # Ignore obsidian settings
 .obsidian
+
+# Ignore TTMIK References
+References/TalkToMeInKorean*
