@@ -6,6 +6,6 @@
 # {{title}} ({{date}} {{time}})
 
 
-
+---
 ## References
 - 

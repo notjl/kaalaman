@@ -1,5 +1,6 @@
 ###### Type: #literature
 ###### Tags: [[Note Taking]]
+---
 # A note is the center (13-07-22 07:12)
 
 It all starts with an idea. But as humans, ideas are but a fleeting thing. An average person would not be able to remember every little detail they thought of. This is where the idea of taking notes of these ideas comes in.
@@ -8,6 +9,7 @@ Writing notes or writing in general is the key to all written works. Everything 
 
 We fear that we cannot create a sensible paper because of a blank page. It is the irrational fear of not knowing what to write. The struggle will only subside if we have a glimpse of what we **could** write. That is why knowing or just having a note of what to write helps jumpstart a paper.
 
+---
 ## References
 - [[📚 How to Take Smart Notes]]
 - [[It starts with a note]]

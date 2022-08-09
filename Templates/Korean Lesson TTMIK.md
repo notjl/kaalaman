@@ -1,14 +1,13 @@
 ###### Type: #korean #lesson
-###### Title: 
-###### Lesson:
+###### Title:
 ---
 # {{title}} ({{date}} {{time}})
 
 
-
+---
 ## Vocabulary
 ```
 ```
-
+---
 ## References
 - 
