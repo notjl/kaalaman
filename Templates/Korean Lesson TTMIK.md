@@ -1,13 +1,20 @@
 ###### Type: #korean #lesson
-###### Title:
+###### Title: {{title}}
 ---
-# {{title}} ({{date}} {{time}})
+# 레벨 레즌: {{title}} ({{date}} {{time}})
+## Lesson Notes
 
+
+## Lesson Exercise
+1. 
+
+## Workbook Answer
+### Section I 
 
 ---
 ## Vocabulary
-```
+```ad-vocabulary
 ```
 ---
 ## References
-- 
+![[]]

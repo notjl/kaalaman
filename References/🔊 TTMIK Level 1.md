@@ -4,276 +4,251 @@
 # 🔊 TTMIK Level 1 (09-08-22 15:44)
 ## Lesson 1: Hello. Thank you. / 안녕하세요. 감사합니다.
 ### TTMIK Essential Korean
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/76101622&color=030d51&show_teaser=false&show_user=false"></iframe>
+![[Level 01 Lesson 01.mp3#t=3]]![[TTMIK Essential Korean PDF.pdf#page=4]]
 
-![[L1L1.mp3]]![[L1L1.pdf]]
-
-### Textbook
-![[Level 1.pdf#page=4]]
+### Textbook and Workbook
+![[Level 1 Textbook.pdf#page=4]]
+![[Level 1 Workbook.pdf#page=13]]
 
 ---
 
 ## Lesson 2: Yes. No. What? / 네. 아니요. 네?
 ### TTMIK Essential Korean
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/76101623&color=030d51&show_teaser=false&show_user=false"></iframe>
+![[Level 01 Lesson 02.mp3]]![[TTMIK Essential Korean PDF.pdf#page=5]]
 
-![[L1L2.mp3]]![[L1L2.pdf]]
-
-### Textbook
-![[Level 1.pdf#page=9]]
+### Textbook and Workbook
+![[Level 1 Textbook.pdf#page=9]]
+![[Level 1 Workbook.pdf#page=17]]
 
 ---
 
 ## Lesson 3: Good-bye. See you. / 안녕히 가세요. 안녕히 계세요. 안녕.
 ### TTMIK Essential Korean
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/76101624&color=030d51&show_teaser=false&show_user=false"></iframe>
+![[Level 01 Lesson 03.mp3]]![[TTMIK Essential Korean PDF.pdf#page=9]]
 
-![[L1L3.mp3]]![[L1L3.pdf]]
-
-### Textbook
-![[Level 1.pdf#page=16]]
+### Textbook and Workbook
+![[Level 1 Textbook.pdf#page=16]]
+![[Level 1 Workbook.pdf#page=20]]
 
 ---
 
 ## Lesson 4: I’m sorry. Excuse me. / 죄송합니다. 저기요.
 ### TTMIK Essential Korean
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/76101625&color=030d51&show_teaser=false&show_user=false"></iframe>
+![[Level 01 Lesson 04.mp3]]![[TTMIK Essential Korean PDF.pdf#page=11]]
 
-![[L1L4.mp3]]![[L1L4.pdf]]
-
-### Textbook
-![[Level 1.pdf#page=20]]
+### Textbook and Workbook
+![[Level 1 Textbook.pdf#page=20]]
+![[Level 1 Workbook.pdf#page=25]]
 
 ---
 
 ## Lesson 5: It’s me. What is it? / 저예요. 뭐예요?
 ### TTMIK Essential Korean
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/76101626&color=030d51&show_teaser=false&show_user=false"></iframe>
+![[Level 01 Lesson 05.mp3]]![[TTMIK Essential Korean PDF.pdf#page=13]]
 
-![[L1L5.mp3]]![[L1L5.pdf]]
-
-### Textbook
-![[Level 1.pdf#page=25]]
+### Textbook and Workbook
+![[Level 1 Textbook.pdf#page=25]]
+![[Level 1 Workbook.pdf#page=29]]
 
 ---
 
 ## Lesson 6: What is this? This is … / 이거 뭐예요? 이거…
 ### TTMIK Essential Korean
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/76198889&color=030d51&show_teaser=false&show_user=false"></iframe>
+![[Level 01 Lesson 06.mp3]]![[TTMIK Essential Korean PDF.pdf#page=16]]
 
-![[L1L6.mp3]]![[L1L6.pdf]]
-
-### Textbook
-![[Level 1.pdf#page=30]]
+### Textbook and Workbook
+![[Level 1 Textbook.pdf#page=30]]
+![[Level 1 Workbook.pdf#page=33]]
 
 ---
 
 ## Lesson 7: This, That, It / 이, 그, 저
 ### TTMIK Essential Korean
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/76198890&color=030d51&show_teaser=false&show_user=false"></iframe>
+![[Level 01 Lesson 07.mp3]]![[TTMIK Essential Korean PDF.pdf#page=18]]
 
-![[L1L7.mp3]]![[L1L7.pdf]]
-
-### Textbook
-![[Level 1.pdf#page=35]]
+### Textbook and Workbook
+![[Level 1 Textbook.pdf#page=35]]
+![[Level 1 Workbook.pdf#page=36]]
 
 ---
 
 ## Lesson 8: It's NOT me. / 아니에요
 ### TTMIK Essential Korean
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/76198891&color=030d51&show_teaser=false&show_user=false"></iframe>
+![[Level 01 Lesson 08.mp3]]![[TTMIK Essential Korean PDF.pdf#page=20]]
 
-![[L1L8.mp3]]![[L1L8.pdf]]
-
-### Textbook
-![[Level 1.pdf#page=41]]
+### Textbook and Workbook
+![[Level 1 Textbook.pdf#page=41]]
+![[Level 1 Workbook.pdf#page=38]]
 
 ---
 
 ## Lesson 9: Particles for Topic and Subject / 은, 는, 이, 가
 ### TTMIK Essential Korean
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/76198892&color=030d51&show_teaser=false&show_user=false"></iframe>
+![[Level 01 Lesson 09.mp3]]![[TTMIK Essential Korean PDF.pdf#page=22]]
 
-![[L1L9.mp3]]![[L1L9.pdf]]
-
-### Textbook
-![[Level 1.pdf#page=46]]
+### Textbook and Workbook
+![[Level 1 Textbook.pdf#page=46]]
+![[Level 1 Workbook.pdf#page=42]]
 
 ---
 
 ## Lesson 10: have, don't have, there is, there isn't / 있어요, 없어요
 ### TTMIK Essential Korean
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/76198893&color=030d51&show_teaser=false&show_user=false"></iframe>
+![[Level 01 Lesson 10.mp3]]![[TTMIK Essential Korean PDF.pdf#page=27]]
 
-![[L1L10.mp3]]![[L1L10.pdf]]
-
-### Textbook
-![[Level 1.pdf#page=56]]
+### Textbook and Workbook
+![[Level 1 Textbook.pdf#page=56]]
+![[Level 1 Workbook.pdf#page=46]]
 
 ---
 
 ## Lesson 11: Please give me. / 주세요.
 ### TTMIK Essential Korean
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/76200183&color=030d51&show_teaser=false&show_user=false"></iframe>
+![[Level 01 Lesson 11.mp3]]![[TTMIK Essential Korean PDF.pdf#page=30]]
 
-![[L1L11.mp3]]![[L1L11.pdf]]
-
-### Textbook
-![[Level 1.pdf#page=65]]
+### Textbook and Workbook
+![[Level 1 Textbook.pdf#page=65]]
+![[Level 1 Workbook.pdf#page=50]]
 
 ---
 
 ## Lesson 12: It's delicious. Thank you for the food. / 맛있어요. 잘 먹겠습니다. 잘 먹었습니다.
 ### TTMIK Essential Korean
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/76200184&color=030d51&show_teaser=false&show_user=false"></iframe>
+![[Level 01 Lesson 12.mp3]]![[TTMIK Essential Korean PDF.pdf#page=33]]
 
-![[L1L12.mp3]]![[L1L12.pdf]]
-
-### Textbook
-![[Level 1.pdf#page=71]]
+### Textbook and Workbook
+![[Level 1 Textbook.pdf#page=71]]
+![[Level 1 Workbook.pdf#page=55]]
 
 ---
 
 ## Lesson 13: I want to ... / -고 싶어요.
 ### TTMIK Essential Korean
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/76200185&color=030d51&show_teaser=false&show_user=false"></iframe>
+![[Level 01 Lesson 13.mp3]]![[TTMIK Essential Korean PDF.pdf#page=36]]
 
-![[L1L13.mp3]]![[L1L13.pdf]]
-
-### Textbook
-![[Level 1.pdf#page=76]]
+### Textbook and Workbook
+![[Level 1 Textbook.pdf#page=76]]
+![[Level 1 Workbook.pdf#page=59]]
 
 ---
 
 ## Lesson 14: What do you want to do? / 뭐 하고 싶어요
 ### TTMIK Essential Korean
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/76200186&color=030d51&show_teaser=false&show_user=false"></iframe>
+![[Level 01 Lesson 14.mp3]]![[TTMIK Essential Korean PDF.pdf#page=39]]
 
-![[L1L14.mp3]]![[L1L14.pdf]]
-
-### Textbook
-![[Level 1.pdf#page=81]]
+### Textbook and Workbook
+![[Level 1 Textbook.pdf#page=81]]
+![[Level 1 Workbook.pdf#page=62]]
 
 ---
 
 ## Lesson 15: Sino-Korean Numbers / 일, 이, 삼, 사
 ### TTMIK Essential Korean
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/76200188&color=030d51&show_teaser=false&show_user=false"></iframe>
+![[Level 01 Lesson 15.mp3]]![[TTMIK Essential Korean PDF.pdf#page=41]]
 
-![[L1L15.mp3]]![[L1L15.pdf]]
-
-### Textbook
-![[Level 1.pdf#page=86]]
+### Textbook and Workbook
+![[Level 1 Textbook.pdf#page=86]]
+![[Level 1 Workbook.pdf#page=65]]
 
 ---
 
 ## Lesson 16: Basic Present Tense / -아요, -어요, 여요
 ### TTMIK Essential Korean
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/76200189&color=030d51&show_teaser=false&show_user=false"></iframe>
+![[Level 01 Lesson 16.mp3]]![[TTMIK Essential Korean PDF.pdf#page=43]]
 
-![[L1L16.mp3]]![[L1L16.pdf]]
-
-### Textbook
-![[Level 1.pdf#page=91]]
+### Textbook and Workbook
+![[Level 1 Textbook.pdf#page=91]]
+![[Level 1 Workbook.pdf#page=68]]
 
 ---
 
 ## Lesson 17: Past Tense / -았/었/였어요 (했어요)
 ### TTMIK Essential Korean
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/76200190&color=030d51&show_teaser=false&show_user=false"></iframe>
+![[Level 01 Lesson 17.mp3]]![[TTMIK Essential Korean PDF.pdf#page=48]]
 
-![[L1L17.mp3]]![[L1L17.pdf]]
-
-### Textbook
-![[Level 1.pdf#page=97]]
+### Textbook and Workbook
+![[Level 1 Textbook.pdf#page=97]]
+![[Level 1 Workbook.pdf#page=72]]
 
 ---
 
 ## Lesson 18: Particles for Location / 에, 에서
 ### TTMIK Essential Korean
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/76200191&color=030d51&show_teaser=false&show_user=false"></iframe>
+![[Level 01 Lesson 18.mp3]]![[TTMIK Essential Korean PDF.pdf#page=52]]
 
-![[L1L18.mp3]]![[L1L18.pdf]]
-
-### Textbook
-![[Level 1.pdf#page=103]]
+### Textbook and Workbook
+![[Level 1 Textbook.pdf#page=103]]
+![[Level 1 Workbook.pdf#page=76]]
 
 ---
 
 ## Lesson 19: When / 언제
 ### TTMIK Essential Korean
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/76201851&color=030d51&show_teaser=false&show_user=false"></iframe>
+![[Level 01 Lesson 19.mp3]]![[TTMIK Essential Korean PDF.pdf#page=57]]
 
-![[L1L19.mp3]]![[L1L19.pdf]]
-
-### Textbook
-![[Level 1.pdf#page=111]]
+### Textbook and Workbook
+![[Level 1 Textbook.pdf#page=111]]
+![[Level 1 Workbook.pdf#page=81]]
 
 ---
 
 ## Lesson 20: Native Korean numbers / 하나, 둘, 셋, 넷
 ### TTMIK Essential Korean
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/76202509&color=030d51&show_teaser=false&show_user=false"></iframe>
+![[Level 01 Lesson 20.mp3]]![[TTMIK Essential Korean PDF.pdf#page=59]]
 
-![[L1L20.mp3]]![[L1L20.pdf]]
-
-### Textbook
-![[Level 1.pdf#page=116]]
+### Textbook and Workbook
+![[Level 1 Textbook.pdf#page=116]]
+![[Level 1 Workbook.pdf#page=85]]
 
 ---
 
 ## Lesson 21: Negataive Sentences / 안, -지 않다
 ### TTMIK Essential Korean
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/76202511&color=030d51&show_teaser=false&show_user=false"></iframe>
+![[Level 01 Lesson 21.mp3]]![[TTMIK Essential Korean PDF.pdf#page=64]]
 
-![[L1L21.mp3]]![[L1L21.pdf]]
-
-### Textbook
-![[Level 1.pdf#page=128]]
+### Textbook and Workbook
+![[Level 1 Textbook.pdf#page=128]]
+![[Level 1 Workbook.pdf#page=90]]
 
 ---
 
 ## Lesson 22: 하다 verbs
 ### TTMIK Essential Korean
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/76202512&color=030d51&show_teaser=false&show_user=false"></iframe>
+![[Level 01 Lesson 22.mp3]]![[TTMIK Essential Korean PDF.pdf#page=67]]
 
-![[L1L22.mp3]]![[L1L22.pdf]]
-
-### Textbook
-![[Level 1.pdf#page=133]]
+### Textbook and Workbook
+![[Level 1 Textbook.pdf#page=133]]
+![[Level 1 Workbook.pdf#page=94]]
 
 ---
 
 ## Lesson 23: Who? / 누구?
 ### TTMIK Essential Korean
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/76202513&color=030d51&show_teaser=false&show_user=false"></iframe>
+![[Level 01 Lesson 23.mp3]]![[TTMIK Essential Korean PDF.pdf#page=69]]
 
-![[L1L23.mp3]]![[L1L23.pdf]]
-
-### Textbook
-![[Level 1.pdf#page=138]]
+### Textbook and Workbook
+![[Level 1 Textbook.pdf#page=138]]
+![[Level 1 Workbook.pdf#page=98]]
 
 ---
 
 ## Lesson 24: Why? How? / 왜? 어떻게?
 ### TTMIK Essential Korean
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/76202514&color=030d51&show_teaser=false&show_user=false"></iframe>
+![[Level 01 Lesson 24.mp3]]![[TTMIK Essential Korean PDF.pdf#page=71]]
 
-![[L1L24.mp3]]![[L1L24.pdf]]
-
-### Textbook
-![[Level 1.pdf#page=143]]
+### Textbook and Workbook
+![[Level 1 Textbook.pdf#page=143]]
+![[Level 1 Workbook.pdf#page=102]]
 
 ---
 
 ## Lesson 25: From A To B, From C Until D / -에서/부터 -까지
 ### TTMIK Essential Korean
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/76202516&color=030d51&show_teaser=false&show_user=false"></iframe>
+![[Level 01 Lesson 25.mp3]]![[TTMIK Essential Korean PDF.pdf#page=73]]
 
-![[L1L25.mp3]]![[L1L25.pdf]]
-
-### Textbook
-![[Level 1.pdf#page=148]]
+### Textbook and Workbook
+![[Level 1 Textbook.pdf#page=148]]
+![[Level 1 Workbook.pdf#page=106]]
 
 ---
 ## References
