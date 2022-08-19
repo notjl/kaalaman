@@ -14,6 +14,9 @@
 ---
 ## Vocabulary
 ```ad-vocabulary
+collapse: open
+
+
 ```
 ---
 ## References
