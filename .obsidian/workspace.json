@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "11b2d780d63e35b4",
+        "id": "bf3b0247152761ab",
         "type": "tabs",
         "children": [
           {
-            "id": "1ed999893bd3eb97",
+            "id": "a81f3a182b55d000",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettel/A note is the center.md",
+                "file": "References/🔊 TTMIK Level 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettel/A note is the center.md",
+                "file": "References/🔊 TTMIK Level 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettel/A note is the center.md",
+                "file": "References/🔊 TTMIK Level 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettel/A note is the center.md"
+                "file": "References/🔊 TTMIK Level 1.md"
               }
             }
           }
@@ -148,8 +148,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "1ed999893bd3eb97",
+  "active": "a81f3a182b55d000",
   "lastOpenFiles": [
+    "Zettel/Untitled.md",
+    "레즌/Level 1/L1L1 안녕하세요 - 감사합니다.md",
     "Zettel/A note is the center.md",
     "README.md",
     "Templates/Literature Zettel.md",
