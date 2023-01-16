@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bf3b0247152761ab",
+        "id": "01c557d019b59148",
         "type": "tabs",
         "children": [
           {
-            "id": "a81f3a182b55d000",
+            "id": "fd6be6706ec63a61",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -140,14 +140,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a81f3a182b55d000",
+  "active": "fd6be6706ec63a61",
   "lastOpenFiles": [
-    "References/🔊 TTMIK Level 1.md",
-    "Zettel/Untitled.md",
-    "레즌/Level 1/L1L1 안녕하세요 - 감사합니다.md",
     "Zettel/A note is the center.md",
-    "README.md",
-    "Templates/Literature Zettel.md",
-    "Templates/Book.md"
+    "References/💻 Google Machine Learning Crash Course.md",
+    "References/📚 How to Take Smart Notes.md",
+    "Templates/Generic Reference.md",
+    "Templates/Book.md",
+    "Zettel/Reduce time programming using Machine Learning.md",
+    "Templates/Website.md",
+    "Zettel/No matter where, Linux is there.md",
+    "Zettel/Still Linux, it's just flavour.md",
+    "Zettel/Shell is your friend.md"
   ]
 }
