@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "01c557d019b59148",
+        "id": "49cdc3662fbe611c",
         "type": "tabs",
         "children": [
           {
-            "id": "fd6be6706ec63a61",
+            "id": "313212f9d3275f1a",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -140,17 +140,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "fd6be6706ec63a61",
+  "active": "313212f9d3275f1a",
   "lastOpenFiles": [
-    "Zettel/A note is the center.md",
-    "References/💻 Google Machine Learning Crash Course.md",
+    "Zettel/Fleeting Notes are ideas for capturing.md",
+    "Zettel/Permanent Notes are the essence of Zettelkasten.md",
+    "Zettel/Notes should not just be of importance but interest.md",
+    "Zettel/Note Taking.md",
+    "Zettel/It starts with a note.md",
     "References/📚 How to Take Smart Notes.md",
-    "Templates/Generic Reference.md",
-    "Templates/Book.md",
-    "Zettel/Reduce time programming using Machine Learning.md",
-    "Templates/Website.md",
-    "Zettel/No matter where, Linux is there.md",
-    "Zettel/Still Linux, it's just flavour.md",
-    "Zettel/Shell is your friend.md"
+    "Zettel/Literature Notes are written ideas you don't want to forget.md",
+    "Templates/Fleeting Zettel.md",
+    "Templates/Literature Zettel.md",
+    "Zettel/A note is the center.md"
   ]
 }
