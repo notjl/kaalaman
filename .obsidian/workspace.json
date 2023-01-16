@@ -11,8 +11,12 @@
             "id": "313212f9d3275f1a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Zettel/We have too much and too little at the same time.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettel/We have too much and too little at the same time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettel/We have too much and too little at the same time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Zettel/We have too much and too little at the same time.md"
+              }
             }
           }
         ]
@@ -142,6 +150,7 @@
   },
   "active": "313212f9d3275f1a",
   "lastOpenFiles": [
+    "Zettel/We have too much and too little at the same time.md",
     "Zettel/Fleeting Notes are ideas for capturing.md",
     "Zettel/Permanent Notes are the essence of Zettelkasten.md",
     "Zettel/Notes should not just be of importance but interest.md",
@@ -150,7 +159,6 @@
     "References/📚 How to Take Smart Notes.md",
     "Zettel/Literature Notes are written ideas you don't want to forget.md",
     "Templates/Fleeting Zettel.md",
-    "Templates/Literature Zettel.md",
-    "Zettel/A note is the center.md"
+    "Templates/Literature Zettel.md"
   ]
 }

@@ -3,5 +3,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "Zettel",
   "attachmentFolderPath": "References",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false
 }
