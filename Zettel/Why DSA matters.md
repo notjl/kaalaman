@@ -11,4 +11,4 @@ As stated in [[What Data Structure and Algorithms truly is]], DS and A is interr
 
 ---
 ## References
-- [[A Common-Sense Guide to Data Structures and Algorithms]]
+-  [[📘 A Common-Sense Guide to Data Structures and Algorithms]]

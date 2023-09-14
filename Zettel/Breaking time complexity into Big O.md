@@ -1,7 +1,7 @@
 ###### Type: #literature
 ###### Tags: [[Coding]], [[DSA]]
 ---
-# Breaking time complexities into Big O (09-09-23 20:52)
+# Breaking time complexity into Big O (09-09-23 20:52)
 
 Time complexity is basically the speed of the algorithm without regards to the hardware. It is rather the amount of steps of which the code takes in order to get the result.
 
@@ -20,6 +20,8 @@ This is a bad simplification, but we can simplify determination of a function's 
 - Halving an iteration means it is *O(log N)*
 - No iteration means it is *O(1)*
 
+In essence, Big O helps us determine whether our program is efficient despite the hardware.
+
 ---
 ## References
-- [[A Common-Sense Guide to Data Structures and Algorithms]]
+- [[📘 A Common-Sense Guide to Data Structures and Algorithms]]
