@@ -1,46 +1,54 @@
 {
   "main": {
-    "id": "0fec7a1ceed7f34d",
+    "id": "d557de41e620580e",
     "type": "split",
     "children": [
       {
-        "id": "03fb4f423b8880b3",
+        "id": "d5099247326183bf",
         "type": "tabs",
         "children": [
           {
-            "id": "43c464769b2d1745",
+            "id": "67ed73862c9cab4e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "References/📘 A Common-Sense Guide to Data Structures and Algorithms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "📘 A Common-Sense Guide to Data Structures and Algorithms"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5a34b2a128f0451e",
+    "id": "b49c77c1689532c2",
     "type": "split",
     "children": [
       {
-        "id": "85c6a382ab7138f4",
+        "id": "95c6aac299d030f4",
         "type": "tabs",
         "children": [
           {
-            "id": "77bc462c843e9170",
+            "id": "6f466019e8e2f62f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "81a9f24da32995a0",
+            "id": "2833b55e18cec292",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -51,45 +59,42 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "f3da8f68f48df250",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "636f14b28ca37228",
+            "id": "9438a4d87202e92c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "83a23bc8995c5277",
+    "id": "f43e04ee2475ee55",
     "type": "split",
     "children": [
       {
-        "id": "a1d48a132d15f15f",
+        "id": "a524fe159e2b4272",
         "type": "tabs",
         "children": [
           {
-            "id": "80b2f95d4beabe87",
+            "id": "7b3b85725045ec3f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,47 +102,67 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
             }
           },
           {
-            "id": "ea58531bac3a43ee",
+            "id": "665ea5020f5d9217",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
             }
           },
           {
-            "id": "b63f49d89d762967",
+            "id": "33808eaef8ae2236",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "12bea8b78d651ee5",
+            "id": "543a83791c88d434",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
             }
           },
           {
-            "id": "4a880772f1e001ff",
+            "id": "f7cfdde1a0ec8c8e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
-              }
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -149,46 +174,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "43c464769b2d1745",
+  "active": "67ed73862c9cab4e",
   "lastOpenFiles": [
-    "Zettel/Big O is not absolute.md",
+    "References/📚 How to Take Smart Notes.md",
     "Zettel/Binary Search.md",
-    "Zettel/Two Sums.md",
-    "Zettel/Big O helps with speeding up code.md",
-    "Zettel/Bubble Sort.md",
-    "Zettel/Selection Sort.md",
-    "Zettel/Breaking time complexity into Big O.md",
-    "Zettel/Greatest Number.md",
-    "Zettel/Has Duplicate Value.md",
-    "Zettel/Why DSA matters.md",
+    "References/💻 Google Machine Learning Crash Course.md",
     "References/📘 A Common-Sense Guide to Data Structures and Algorithms.md",
+    "Zettel/Why DSA matters.md",
+    "Zettel/Big O helps with speeding up code.md",
+    "README.md",
+    "Welcome.md",
+    "Zettel/What Data Structure and Algorithms truly is.md",
+    "Zettel/We have too much and too little at the same time.md",
+    "Zettel/Two Sums.md",
+    "Zettel/Splitting the code and explanation.md",
+    "Zettel/Selection Sort.md",
+    "Zettel/Permanent Notes are the essence of Zettelkasten.md",
+    "Zettel/Notes should not just be of importance but interest.md",
+    "Zettel/Literature Notes are written ideas you don't want to forget.md",
+    "Zettel/Linear Search.md",
+    "Zettel/Has Duplicate Value.md",
+    "Zettel/Greatest Number.md",
     "Zettel/Breaking down complex structures.md",
     "Zettel/Fleeting Notes are ideas for capturing.md",
-    "Zettel/Linear Search.md",
-    "Zettel/Literature Notes are written ideas you don't want to forget.md",
-    "Zettel/Notes should not just be of importance but interest.md",
-    "Zettel/Permanent Notes are the essence of Zettelkasten.md",
-    "Zettel/We have too much and too little at the same time.md",
-    "Zettel/Splitting the code and explanation.md",
-    "Zettel/What Data Structure and Algorithms truly is.md",
-    "Templates/Flashcard TTMIK.md",
-    "Templates/Korean Lesson TTMIK.md",
+    "Zettel/Bubble Sort.md",
+    "Zettel/Breaking time complexity into Big O.md",
+    "Zettel/Big O is not absolute.md",
+    "Zettel",
+    "Templates/TTMIK Level.md",
     "Templates/Map Of Content.md",
-    "Zettel/DSA.md",
-    "Templates/Literature Zettel.md",
-    "Templates/Fleeting Zettel.md",
-    "Untitled.canvas",
-    "References/Untitled",
-    "Zettel/Untitled.canvas",
-    "Learning Rust"
+    "Templates",
+    "References"
   ]
 }
