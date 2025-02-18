@@ -1,9 +1,8 @@
 ---
 title: "{{title}}"
 tags:
-  - "#snippet"
-topics:
-  - "[[Coding]]"
+  - "#fleeting"
+topics: 
 created: 
 modified:
 ---

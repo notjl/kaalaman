@@ -4,5 +4,7 @@
   "newFileFolderPath": "Zettel",
   "attachmentFolderPath": "References",
   "alwaysUpdateLinks": true,
-  "readableLineLength": false
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "showInlineTitle": false
 }

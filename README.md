@@ -7,8 +7,9 @@ Once the adapting period of this new note taking habit is done and it becomes se
 
 ~~kaalaman is a repository solely for storing notjl's knowledge and ideas through the Zettelkasten method by Niklas Luhmann or generally storing notes and learnings made.~~
 
-## References
+# References
 Here are some references that inspired the concept of this system:
-- [Artem Kisanov](https://youtu.be/E6ySG7xYgjY)
-- [morganeua](https://youtu.be/L9SLlxaEEXY)
-- [Martin Adams](https://youtu.be/ziE6UExsOrs)
+[Artem Kisanov](https://youtu.be/E6ySG7xYgjY)
+[morganeua](https://youtu.be/L9SLlxaEEXY)
+[Martin Adams](https://youtu.be/ziE6UExsOrs)
+[FromSergio](https://youtu.be/GRA_fwbdrtc?si=CiYLKOmlxypS5scD)

@@ -4,24 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "d5099247326183bf",
+        "id": "5e3487c6ea83321e",
         "type": "tabs",
         "children": [
           {
-            "id": "67ed73862c9cab4e",
+            "id": "17134edea4c58210",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "References/📘 A Common-Sense Guide to Data Structures and Algorithms.md",
+                "file": "Templates/Map Of Content.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📘 A Common-Sense Guide to Data Structures and Algorithms"
+              "title": "Map Of Content"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -41,7 +42,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Map Of Content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Map Of Content"
             }
           },
           {
@@ -152,7 +153,7 @@
             }
           },
           {
-            "id": "f7cfdde1a0ec8c8e",
+            "id": "6d67b66f0949f66d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -164,13 +165,23 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "d17dd69ab6c5ddb0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,38 +191,41 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "67ed73862c9cab4e",
+  "active": "17134edea4c58210",
   "lastOpenFiles": [
+    "Templates/Map Of Content.md",
+    "Templates/Map Of Content.md",
+    "Templates/Generic Note.md",
+    "Templates/Fleeting Note.md",
+    "Templates/Generic.md",
+    "README.md",
+    "Templates/Literature Zettel.md",
+    "Templates/Book.md",
+    "Templates/Book.md",
+    "Templates/Code Snippet.md",
     "References/📚 How to Take Smart Notes.md",
+    "Zettel/test.md",
+    "Zettel/Note taking.md",
+    "Zettel/Zettelkasten]], [[Note taking.md",
+    "Zettel/Fleeting notes are thoughts captured.md",
+    "Zettel/It starts with a note.md",
+    "Templates/Templater",
+    "References/📘 A Common-Sense Guide to Data Structures and Algorithms.md",
     "Zettel/Binary Search.md",
     "References/💻 Google Machine Learning Crash Course.md",
-    "References/📘 A Common-Sense Guide to Data Structures and Algorithms.md",
     "Zettel/Why DSA matters.md",
     "Zettel/Big O helps with speeding up code.md",
-    "README.md",
     "Welcome.md",
     "Zettel/What Data Structure and Algorithms truly is.md",
     "Zettel/We have too much and too little at the same time.md",
     "Zettel/Two Sums.md",
     "Zettel/Splitting the code and explanation.md",
-    "Zettel/Selection Sort.md",
-    "Zettel/Permanent Notes are the essence of Zettelkasten.md",
-    "Zettel/Notes should not just be of importance but interest.md",
-    "Zettel/Literature Notes are written ideas you don't want to forget.md",
-    "Zettel/Linear Search.md",
-    "Zettel/Has Duplicate Value.md",
-    "Zettel/Greatest Number.md",
-    "Zettel/Breaking down complex structures.md",
-    "Zettel/Fleeting Notes are ideas for capturing.md",
-    "Zettel/Bubble Sort.md",
-    "Zettel/Breaking time complexity into Big O.md",
-    "Zettel/Big O is not absolute.md",
     "Zettel",
-    "Templates/TTMIK Level.md",
-    "Templates/Map Of Content.md",
     "Templates",
     "References"
   ]

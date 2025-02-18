@@ -1,11 +1,16 @@
-###### Type: #book
-###### Title: 
-###### Author: 
-###### Published:
 ---
-# {{title}} ({{date}} {{time}})
+title: "{{title}}"
+author: 
+publishing: 
+tags:
+  - book
+  - "#literature"
+topics: 
+created: 
+modified:
+---
+# {{title}} \[{{date}} {{time}}\]
 
 
 ---
-## References
-- 
+# References

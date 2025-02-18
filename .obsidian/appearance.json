@@ -1,4 +1,7 @@
 {
   "accentColor": "#65c8d0",
-  "cssTheme": "Catppuccin"
+  "cssTheme": "Catppuccin",
+  "showViewHeader": true,
+  "showRibbon": true,
+  "translucency": true
 }
