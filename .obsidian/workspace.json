@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5e3487c6ea83321e",
+        "id": "fa9a4c5121ee6679",
         "type": "tabs",
         "children": [
           {
-            "id": "17134edea4c58210",
+            "id": "6b0c5cc1f37137b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Templates/Map Of Content.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Map Of Content"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ],
@@ -95,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Map Of Content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Map Of Content"
+              "title": "Backlinks"
             }
           },
           {
@@ -196,7 +195,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "17134edea4c58210",
+  "active": "6b0c5cc1f37137b1",
   "lastOpenFiles": [
     "Templates/Map Of Content.md",
     "Templates/Map Of Content.md",
